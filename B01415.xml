@@ -1,0 +1,305 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Answers in behalf of the vvellwishers to the prosperity of the nation, in matters of trade, vvhy the frivolous points of allerged private rights obtruded by the Town of Edinburgh should not hinder the passing of the Act for a Communication of Trade, to the inhabitants of Leith.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01415</idno>
+            <idno type="STC">Wing A3468AB</idno>
+            <idno type="STC">ESTC R176295</idno>
+            <idno type="EEBO-CITATION">52614506</idno>
+            <idno type="OCLC">ocm 52614506</idno>
+            <idno type="VID">175749</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01415)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175749)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2749:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Answers in behalf of the vvellwishers to the prosperity of the nation, in matters of trade, vvhy the frivolous points of allerged private rights obtruded by the Town of Edinburgh should not hinder the passing of the Act for a Communication of Trade, to the inhabitants of Leith.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: faded, with loss of text.</note>
+                  <note>Concerns Acts of Parliament of 1672 and 1693 which removed trading restrictions in Edinburgh and extended the trading rights of baronies such as Leith.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trade regulation --  Scotland --  Early works to 1800.</term>
+               <term>Commercial law --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  Commerce --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:175749:1" rendition="simple:additions"/>
+            <head>
+               <hi>ANSWERS</hi> In behalf of the VVellwiſhers to the proſperity of the Nation, in matters of Trade, VVHY The frivolous Points of alledged Privat Right obtruded by the Town of <hi>Edinburgh</hi> ſhould not hinder the paſſing of the Act for a Communication of Trade, to the Inhabitants of <hi>Leith.</hi>
+            </head>
+            <p>AS the ſeveral Points of great Advantage to Trade over all the Nation, alſwell as thoſe parts next adjacent to <hi>Leith,</hi> were ſufficiently held furth in the Reaſons offered with the Overture, for ane Act of Commu<g ref="char:EOLhyphen"/>nication of Trade to the Town and Brugh of Barronie of <hi>Leith.</hi> So does the Acts of Parliament <hi>Anno</hi> 1672. and <hi>Anno</hi> 1693. Juſtifie the Legality of the ſaid Overture beyond all Exception that can be foun<g ref="char:EOLhyphen"/>ded on the former Old Laws, before the 1672. Depriving Brughs of Barronie and Regality of all man<g ref="char:EOLhyphen"/>ner of Trade that the Royal Burrows hade then, and before wrongouſly Monopolized: For the Words of the ſaid Act 1672. are, <hi>That the former Laws anent the Priviledges of Royal Burrows were highly prejudicial to the common Interest and Good of the Kingdom, as extending the Priviledges of Royal Borrows far beyond their ancient Rights, and applying the Priviledges of Burrows in general, ſuch as Taping, Retailing,</hi> &amp;c. <hi>To Royal Burrows only to the Prejudice of Brughs of Regality and Barronie: For remead whereof, the ſaid Act</hi> Anno 1672. <hi>Declares Burghs of Barronie,</hi> &amp;c. <hi>to have Right, not only to Tap and Retail, But to Export all the Native Product of the Kingdom, and Import the ſpecial Commodities mentioned in the Act.</hi> And ſo expreſly corrects the Abuſes committed by the Royal Burrows on pretext of the ſaid Old Laws, Likeas the Act of Parliament <hi>anno</hi> 1693. anent the Communication of Trade, of whatſoever kind, to all that are willing to bear a Proportionable part of the Ceſs of the Royal Burrows ſufficiently, Juſtifies the Communication propoſed in behalf of the Town of <hi>Leith,</hi> They being in Contemplation thereof, alwayes ready to bear a Proportionable Burden.</p>
+            <p>The Repreſentation does make a great miſtery of <hi>Edinburghs private Rights:</hi> As to which, before making particular Anſwers thereunto, It is to be Conſidered in the <hi>generall,</hi> That all theſe Rights ſignifie nothing. Becauſe 10, The Caſe is not of Rights or Decreets belwixt <hi>private parties:</hi> Or where the <hi>publick Interest</hi> is not concerned. But the Caſe is anent <hi>publick Rights,</hi> betwixt two <hi>publick Societies,</hi> where the <hi>publick Trade</hi> of the Nation is Intreſted. In which Caſe, there are many <hi>Precedents</hi> of the Parliaments interpoſing without reſpect to particular Rights. So the Parliament, by ſeveral Old Acts did take away <hi>Cruves</hi> and <hi>Yares,</hi> did forbid the taking of <hi>Black Fiſh</hi> and <hi>Smolts,</hi> did prohibite <hi>huunting and haulking,</hi> except in the time and manner preſcribed, <hi>&amp;c.</hi> Without reſpect to any <hi>Infeftments, or other Rights or Poſ<g ref="char:EOLhyphen"/>ſeſions,</hi> which would have carried the uſe of the things; prior to the Acts reſtricting the ſamen. And thus in part<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cular Caſe of Trade. The Brughs Royal had by their Charters and Poſſeſſion, an unqueſtionable Right of <hi>Trading excluſive of all others;</hi> and yet by the Act 1672. That Right is taken from them, and Conferred in great meaſure, on the Brughs of Barronie and Regality. And without multiplying inſtances, it is known how there is preſently preſented an Act for <hi>Conjoyning Chyrurgery and Pharmacie,</hi> tho they be ſeparated by expreſs Decreets of the Lords of Seſſion, and there are ſuch <hi>abuſes and oppreſſiens</hi> exerced againſt the Town of <hi>Leith</hi> by <hi>Edinburgh:</hi> that upon that head, tho there were no other <hi>Edinburgh deſerves</hi> to be <hi>mulcted</hi> in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing deprived (ſuppoſe it had it) of a part of that <hi>excluſive power,</hi> by which it does tyranize over <hi>Le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th,</hi> by debarring them from Trading. Hence 2, No Arguments drawn from Decreets betwixt <hi>privat Parties</hi> are any ways to the purpoſe in the preſent Caſe. And no Condeſcendencies or Rights prior to the Acts 1672, 1690. and 1693 can debar <hi>Leith</hi> from the Benefits of theſe Acts. Becauſe, in the firſt place, <hi>Leith</hi> was a Burgh of Barrony <hi>Prior</hi> to theſe Reſtrictions, and thereby their <hi>Jus quaeſitum</hi> could not be taken away either by any Deed of the <hi>Superiour,</hi> or <hi>Surreptitious Charters</hi> from the King And, in the next place, ſuch Reſtrictions are to be ſtrictly Interpreted <hi>of any ſmall Trade which Leith could Claim by the Laws then standing:</hi> but can never be undsrſtood of <hi>Supervenient Rights</hi> to Trade which are granted by the new Laws Poſterior to theſe Reſtrictions. Eſpecially conſidering that theſe Reſtri<g ref="char:EOLhyphen"/>ctions <hi>does not expreſly exclude</hi> any benefite which might accrew by <hi>Supervenient</hi> Laws.</p>
+            <p>And whereas it is pretended for <hi>Edinburgh</hi> that the Priviledges which the new Acts grant to Brughs of Barrony, are <hi>given to the Barron;</hi> and he may Communicate the ſame to the Burgh, or nor, as he thinks fit. Its Anſwered, That nothing can be more abfurd; For 10. Its expreſly contrary to the <hi>Words of the Acts,</hi> which give theſe Privi<g ref="char:EOLhyphen"/>ledges to the <hi>Burghs of Barrony;</hi> and not (perſonally) to the <hi>Barrons</hi> only, 2. It is plainly contrary to <hi>common ſenſe.</hi> For as the Barrons t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emſelves by their Repreſentatives in Parliament were Voters to theſe priviledges in Favours <hi>of their own Burghs;</hi> So the reaſon thereof was the Advantage and Diffuſion <hi>of Trade:</hi> Which deſign could not be ſerved any o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her ways than by Communication thereof <hi>to theſe Societies.</hi> But 3. As a demonſtration of the empti<g ref="char:EOLhyphen"/>neſs of this notion; <hi>other Subjeets</hi> who ſhall be content to undergo a part of the Burrow s Taxt Roll; have the Benefit of Trade, ſo that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Inhabitants of <hi>Leith, qua Subjects,</hi> can Claim it.</p>
+            <p>But that the Parliament may ſee more particularly, how the private Rights founded on by <hi>Edinburgh</hi> are taken off; They aae earneſtly intreated, for ſo great a publick Good, to conſider the <hi>Special Anſwers</hi> following.</p>
+            <p n="1">1. <hi>Quoad</hi> King <hi>Robert</hi>'s Charter <hi>anno</hi> 1333, It Entitles <hi>Edinuurgh</hi> to no more in <hi>Leith</hi> than the very Harbour and Shoar allanerly, without ſo much as a foot of Ground farder; So that <hi>Edinburgh</hi> wronguouſly lays claim to the Town of <hi>Leith,</hi> as pertaining to them by that Charter.</p>
+            <p n="2">2. No Reſpect to <hi>Reſtalrig</hi> Superior of <hi>Leith,</hi> his Conceſſion in favours of <hi>Edinburgh,</hi> whereby he renounced all Power of <hi>Leith</hi>'s keeping Hoſtlaries or any kind of Retail: For 1. <hi>Utcunque Reſtalrig,</hi> ſo long as he was Proprietar of the whole Houſes and Diſtrict of <hi>Leith,</hi> he for the fewing out of the ſame to the Inhabitants as his Vaſſals, might have renounced all Priviledge of Trade; Yet after he had ſo fewed out the Ground whereon the Town of <hi>Leith</hi> ſtands; And for which, in Contemplation of the Trade competent to theſe Fews and Inhabitants thereof, he got greater Price then he would have go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. For ſo much of any other Ground, he the ſaid <hi>Reſtalrig</hi> as Superior, could not diſpence with, or renounce the Prediarie Right of Trading competent to his Vaſſals the Inhabitants, without their own conſent, more than he could turn them out of the very Property of their Fews. Beſide that, 2. <hi>Reſtal<g ref="char:EOLhyphen"/>rig's</hi> ſaid Renounciation of Trade relates expreſly to the Law that then was, as appropriating the univerſal Right of Trading to Royal Burrows only, and the Law ſo inducing <hi>Reſtalrig</hi> to renounce, <hi>Eſto</hi> he and his Succeſſors had re<g ref="char:EOLhyphen"/>mained Proprietars of <hi>Leith</hi> to this hour, being taken away be the ſaid Act of Parliament 1672, giving Burghs of Barronie Priviledges of Trade <hi>de novo;</hi> No antecedent Renounciation of Trade, with expreſs relation to the ſaids old Laws, can never Incapacitate <hi>Leith</hi> from bruiking the Benefit of Trade by the ſaid ſuperveening new Law.</p>
+            <p n="3">3. No Reſpect to King <hi>James</hi> the third's Charter diſcharging Strangers to Houſe in <hi>Leith,</hi> or Mercats to be uſed there, becauſe the ſaid Charter was impetrate, but <hi>periculo pet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntis,</hi> and neve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ook effect: For it is well known that Stran<g ref="char:EOLhyphen"/>gers did, and do Houſe there, and that near an hundred Years after the ſaid pretended Charter. <hi>Leith</hi> as a Burgh of Barronie, not only uſed Mercats, but had Gifts of the Bailiarie of their Town, granted them by Queen <hi>Mary,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon <hi>Reſtalrig</hi> the Superior's Reſignation, for the Town of <hi>Leith</hi>'s behoof.</p>
+            <p n="4">No Reſpect to the old Acts of Parliament, declaring the Priviledges of Trade to be Competent only to Royal Burrows, and particularly the Acts in King <hi>James</hi> the fourth's time, diſcharging Packing and Peiling in <hi>Leith;</hi> For <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaid <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſtior Act of Parliament <hi>anno</hi> 67<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, declares the ſaids old Laws to have been highly prejudicial to the Comm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt and Good of the Kingdom, in reſtricting the univerſall Priviledge of all kind of Trade to the Roy<g ref="char:EOLhyphen"/>al Burrows only: And for Remeid thereof, declared the Points of Trade competent to Burghs of Barronie and Re<g ref="char:EOLhyphen"/>galitie, as afo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> where by the ſaids old Laws being <hi>in tantum</hi> reſcinded, <hi>Edinburgh</hi> ought not to be heard to plead <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny thing thereo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, con<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ar to the ſaid Act of Parliament <hi>anno</hi> 1672. Nor</p>
+            <p n="5">
+               <pb facs="tcp:175749:2"/>5. Ought Queen <hi>Maries Charter</hi> to <hi>Edinburgh,</hi> wadſetting to them the Superiority of <hi>Le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th,</hi> with <hi>Edinburgh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> acqui<g ref="char:EOLhyphen"/>ring the Reverſion of the ſaid Wadſet, and thereby becoming Superiors of <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ith</hi> be regarded as a privat Right, exclu<g ref="char:EOLhyphen"/>ſive of <hi>Leith</hi> from all Trade. Becauſe 1. A Burgh of Barronies Powe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Trading is very conſiſtent with its having a Superior, whoſe duty it is to Govern and Judge their Vaſſals the Inhabitants of the Burgh of Barronie, but not to deſtroy their Trade, which is the Inhabitants and Few<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs of the Burgh their Prediarie and Patrimonial Rights by Law. 2. That the ſaid Right of Superiority being reſigned by <hi>Reſtalrig,</hi> conform to a ſpecial Contract betwixt the Queen and the Town of <hi>Leith,</hi> for moſt Onerous Cauſes in the year 1555; And the Queen having by her Letters of Bailia<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie to <hi>L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith medio tempor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay and while t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Terms of her Contract aforeſaid ſhould be fulfilled, to them Hypothica<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Superiority of <hi>Leith: Edinburg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> po<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iſirio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Superiority from the Queen, was but Surreptitious, and where<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ent <hi>Edinburgh</hi> was put in <hi>dol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> peſſimo</hi> before taking Seaſiue on the ſaid Wadſet Right, in ſo far as <hi>Leith,</hi> at the Sight, and in the Hands of multitudes of Notta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and Witneſſes, Inſtrumented the very Provoſt of <hi>Edinburgh,</hi> the time of taking Seaſin, as ſaid is; Proteſting, for the Safty of <hi>Le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th</hi>'s Intereſt, and for Coſt, Skaith, and Dam<g ref="char:EOLhyphen"/>nage.</p>
+            <p n="6">6 No reſpect to <hi>Edinburghs</hi> Ratification in Parliament <hi>anno</hi> 16<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>1. of <hi>Reſtalrigs</hi> Conceſſion and Renunciation aforeſaid and Wodſet of the Superiority, including the Juriſdiction of Shirrif-Ship over <hi>Lieth;</hi> Becauſe Ratifications are but <hi>periculo petentis &amp; nihil juris tribuunt,</hi> but fall with the Rights ratified; ſo that <hi>Reſtalrigs</hi> Conceſſions, being but when he was <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uperiour, and ſo <hi>a non habente poteſtatem,</hi> to diſpoſe on the Inhabitants and Vaſſels properties; beſides that the ſaid Conceſſion mentions the Old ſevere and New Reſcinded Laws, as the Cauſe thereof, is in the caſe of a <hi>ſublata cauſa, &amp;c.</hi> And the Right of Superiority <hi>per ſe,</hi> can never preclude the Burgh of Barrony from its predial Right of Trading as aforeſaid, and <hi>quoad</hi> the Sherriff-ſhip, <hi>Lieth non facit vim.</hi>
+            </p>
+            <p n="7">7. No reſpect to <hi>Edinburghs</hi> Charto<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from the King <hi>anno</hi> 1636, bearing a <hi>novo damus</hi> of <hi>Leith,</hi> in favours of <hi>Edinburgh,</hi> with an Annexation thereof to the Royality of <hi>Edinburgh;</hi> But with expreſs ſecluſion from Trade, without licence from the Magiſtrates of <hi>Edinburgh.</hi> Becauſe, 1. The ſaid Charter, with all the other pretended Private Rights aforeſaid, obtruded be <hi>Eir.</hi> are but the reſults of <hi>Edr.</hi> Uſurpations, by vertue of the old reſcinded Laws, &amp; the Annexing of <hi>Lieth</hi> to <hi>Edr.</hi> Royalty, as the ſame is litteraly conceived, reſolves into no more, but a <hi>ſocietus leon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>na</hi> reprob<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t in Law; In ſo far as by the pretended Anna<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation to <hi>Edinburghs</hi> Royalty, <hi>Edinburgh</hi> there throw pleads a Right of Burdening <hi>Lieth</hi> with the Ceſs of <hi>Edinburgh qua par<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> of <hi>Edinburghs</hi> Royaltie; But with the ſame breath denys <hi>Lieth</hi> the benefit of Trade, which is the only conſideration and ground in Law, why our Royal Borrows bear any Burden of Ceſs, and why the other Leidges that undertake any part of the Royal Borrows Ceſs, are allowed to Trade bethe Act of Parliament 1672. So that the Clauſe uniting <hi>Lieth</hi> to <hi>Edinburghs</hi> Royalty, as it ſtands is not Juſtifiable by any Law. And therefore the Parl. may very juſtly regulate ſuch an abuſe, by allowing <hi>L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eth</hi> the benefit of Trade, n contemplation of its ſaid Burden, &amp; that more eſpecially conſidering that 2. The ſaid very Charter towards the cloſe thereof, erects <hi>Lieth de novo</hi> in a Burgh of Barronie without any reſtraint imaginable, upon the freedom of its Trade, as a Brugh of Barrony; But upon the contrai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, allows the ſame in the ampleſt Form, which <hi>ipſo facto</hi> cuts off all preceeding Reſtraints on the Freedom of <hi>Leiths</hi> Trade, before the ſaid Year 1636. Eſpecially ſeing there is no mention made in the ſaid Clauſe of Errection of any Reſervation of by gone reſtraints, ſo much as by way of Qualification, <hi>&amp;c,</hi> Nor</p>
+            <p n="8">8. Does there any right of Debarring <hi>Lieth</hi> from Trade, ariſe to <hi>Edinburgh</hi> by their alledged uſe and wont of Re<g ref="char:EOLhyphen"/>ſtraining <hi>Lieth</hi> by Sentences, binding them to comply with <hi>Edinburghs</hi> Uſurpations, or by oblidgments granted by ſome <hi>Lieth</hi> Men, for obeying the Sentences mentioned in the Decreet of Suſpenſion <hi>anno</hi> 1615. Becauſe 1. The ſevere old Laws, that debarred Burghs of Barrony from Trade, and which were the Foundations of the ſaids Sentences and Oblidgments, &amp; againſt which, <hi>Leith</hi> did always ſtrugle, being taken away by the ſaid new Law <hi>anno</hi> 1672. Induing Burghs of Barronrie, with a priviledge of Trading, <hi>Edinburghs</hi> Right to reſtrain <hi>Lieth</hi> from Trade, on pretence of theſe Sen<g ref="char:EOLhyphen"/>tences, Bands and others fall in conſequence; And that more eſpecially conſidering, That 2. The Bonds and Ob<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>idgments then granted, were but meerly Perſonal by private Men and ſo not binding on their ſingular Succeſſors for leſs upon the Incorporation of the Town: Beſides, That 3. None of theſe Sentences Bonds or others, are ſo much as reſerved in the ſubſequent Errection of <hi>Leith,</hi> in a Burgh of Barrony <hi>anno</hi> 1636, in moſt ample Form. <hi>ut ſupra.</hi>
+            </p>
+            <p n="9">9 It is wrongouſly pretended for <hi>Edinburgh</hi> that the new Acts of Parliament, Anno 1672. and 1690. Declaring the Priviledges of Burghs of Barrony and Regality as to Trade, cannot derogate from <hi>Edinburghs</hi> Reſtraints as ſo many Private Rights left entire by the Acts <hi>Salvo J<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e.</hi> For it is manifeſt from what is above ſaid, that the Town of <hi>Edinburghs</hi> whole Reſtraints and pretended Rights for ſo doing did ariſe directly from the ſaids old ſevere Laws, in ſo far as the pretended Conceſſion from <hi>Restaelrig,</hi> expreſly mentions theſe Laws as the cauſe of his Conceſſion, and their preten<g ref="char:EOLhyphen"/>ded Sentences and Bonds, are alſo founded thereon, and <hi>quoad</hi> any pretence to the Right of Superiority over <hi>Leith,</hi> the ſame can never Impower <hi>Edinburgh</hi> as Superiours to Robb <hi>Leith</hi> of their Right of Trading which is their Property alſo well by their Original Errection in a B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rrony as by their late and abſolute Errection aforeſaid without Reſerve. And ſeing no Man can Doubt, but one Parliament may abrogate and reſcind the Acts of a former, and thereby in conſequence overturn all Pretenſions of Right ariſing from the ſo reſcinded Acts, it will neceſſarly follow, that the ſaids Old ſevere Laws being abrogate, the Acts <hi>Sal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o Jure</hi> can never wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rand <hi>Edinburghs</hi> Uſurpation and Reſtraints upon <hi>Leith</hi> ariſing from the ſaids old Acts.</p>
+            <p n="10">10. <hi>Edinburgh</hi> wrongouſly recurr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the Exception in the <hi>Act</hi> 1693. Allowing the exerciſe of Trade to all except the Inhabitants of the free Ports of Royal Burrows, who are not to Trade but with conſent of the Burgh to whom they belong; For it is manifeſt by <hi>Edinburghs</hi> very an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ient Charter in King <hi>Roberts</hi> time, and by the Conceſſion made them afterwards by <hi>Reſtalrig,</hi> that they have no more of <hi>Leith</hi> given them as their free Port, but the Channel of the Rive<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> only within the Banks by King <hi>Robert<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> ſaid Charter, and from the brink of the River to the Foot of the Walls of the Houſes on the Shoar, only by <hi>Reſtalrig<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Conceſſion, without an Inch of Ground farder, ſave that <hi>Reſtalrig</hi> al<g ref="char:EOLhyphen"/>lowed them Iſh and Entrie throw his Land to the ſaid Shoar: And conſequently, that <hi>Edinburgh</hi> can reſtrain no Man in <hi>Leith</hi> from Trading, except ſuch as Buy and Sell only within that part of <hi>L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith</hi> which is <hi>Edinburghs</hi> free Port. <hi>viz</hi> upon the Shoar all<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>erly, but can never extend their ſaid Reſtraint to the Houſes and Precinct of <hi>Leith</hi> and In<g ref="char:EOLhyphen"/>habitants thereof, why they may not conform to the ſaid <hi>Act</hi> 1693. brook the Priviledge of Trade upon their contri<g ref="char:EOLhyphen"/>buting a proportional part of the Ceſs and Burden of the Royal Burrows.</p>
+            <p n="11">11. No reſpect at all to any pretended Decreet of Declarator, alledged lately obtained by <hi>Edinburgh</hi> againſt <hi>Leith,</hi> as to <hi>Edinburgh,</hi> its exerciſing its ſaids Reſtraints upon <hi>Leith.</hi> Becauſe 1. Whatever way the ſaid Decreet might have been gotten out by Colluſion of ſome particular perſons in <hi>Leith;</hi> yet it is manifeſt from what is above-ſaid, that <hi>Edinburgh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> pretenſions to ſuch Reſtraints are of no Weight, &amp; can never be ſuſtained for prepondering the Publick &amp; Common Good that would ariſe to all throw <hi>Leiths</hi> becoming a Trading Port, which ſome few of the Lodging-monger Neigh<g ref="char:EOLhyphen"/>bours, <hi>&amp;c.</hi> of <hi>Edinburgh</hi> oppoſe for their own privat Gain, <hi>viz.</hi> the heightning of their Houſe Rents, throw their proclud<g ref="char:EOLhyphen"/>ing Merchants to dwell in <hi>Leith,</hi> by which means they obſtruct the advancement of Trade, and extortionouſly exact up<g ref="char:EOLhyphen"/>on all the Leidges that have and muſt have a reſort to <hi>Edinburgh.</hi> Beſide that 2. The ſaid pretended Decreet is now upon the matter, laid directly open, and manifeſtly turned into a meer Claim on the Town of <hi>Edinburghs</hi> part be<g ref="char:EOLhyphen"/>fore the Parliament, in ſo far as they have held forth all the Grounds of the ſaid Decreet, and endeavoured to ſupport the ſame with all the artifice they can in their p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inted Repreſentation, but how abſolutely inſufficient theſe Grounds are, is left to his Grace and the honourable Eſtates of Parliament, to conſider upon peruſal of the above-mentioned Anſwers thereto.</p>
+            <p>And therefore, and upon the whole matter, it is humbly hop<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Parliament will prefer the publick and common well of the Nation, <hi>quoad</hi> the matter of Trade to any ſuch ſham privat Intereſt as <hi>Edinburgh</hi> lays claim to, on no better ground at the Bottom<g ref="char:punc">▪</g> than the old ſevere and old abrogated <hi>Acts</hi> of Parliament which a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Parliament 16<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>2: has expreſly declared to have been highly prejudicial to the common In<g ref="char:EOLhyphen"/>tereſt and good of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Kingdom: ſo it is hopt the Parliament will find the Town of <hi>Edinburghs</hi> ſaid pre<g ref="char:EOLhyphen"/>tentions founded thereon, to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> likewiſe ſuch, and that theſe pretentions have fallen in conſequence of the ſaids old abrogated Laws, and therefore will paſs the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for communication of Trade, humbly offered in Favours of the Town of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <pb facs="tcp:175749:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:175749:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
